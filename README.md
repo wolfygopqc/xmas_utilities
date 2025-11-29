@@ -4,6 +4,9 @@
 
 ## 🌟 Fonctionnalités
 
+*   **Système de Neige Permanente **
+    *   **Neige :** De la neige partout avec différente configuration possible si on si connais `( il est possible qu'il y ai des bug et j'en suis désoler )`. 
+
 *   **Système de Décorations Optimisé**
     *   **Streaming d'Objets :** Les décorations (sapins, etc.) n'apparaissent que lorsqu'un joueur est à proximité (`Stream Distance`), garantissant **zéro impact sur les performances** lorsque personne n'est dans la zone.
     *   **Configuration Facile :** Ajoutez ou retirez des décorations simplement en modifiant leurs coordonnées dans le fichier `config.lua`.
